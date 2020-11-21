@@ -7,7 +7,7 @@
 * [Technologies](#technologies)
 
 ## General info
-Adding items to a menu and 'taco-ing' them with a special checkbox. In the code, I explored saving items to local storage and how a website can benefit from it.
+Add items to a menu and 'taco' them with a special checkbox. In the code, I explored saving items to local storage and how a website can benefit from it.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
