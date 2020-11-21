@@ -7,10 +7,10 @@
 * [Technologies](#technologies)
 
 ## General info
-Based off of the popular game, space invaders, you must shoot down all of the bug enemies to win the game. 
+Adding items to a menu and 'taco-ing' them with a special checkbox. In the code, I explored saving items to local storage and how a website can benefit from it.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-Phaser.js
+Vanilla javascript
